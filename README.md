@@ -1,0 +1,3 @@
+# .lightfast
+
+hello world
